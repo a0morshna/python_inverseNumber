@@ -1,1 +1,2 @@
-# python_inverseNumber
+# InverseNumber
+Simple python code which inverts number.
